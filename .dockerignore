@@ -1,0 +1,16 @@
+# Trim the build context massively
+ChampSim_CRC2/traces
+*.trace.gz
+*.out
+*.o
+*.a
+DB/
+__pycache__/
+.git/
+*.ipynb
+*.sqlite
+*.db
+*.zip
+*.tar
+*.tar.gz
+*.tgz

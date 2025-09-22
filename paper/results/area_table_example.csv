@@ -1,0 +1,8 @@
+scope,field,bits,approx_size
+per-line,RRPV,2,8.00 KiB
+per-line,signature_id,10,40.00 KiB
+per-line,segment_bit,1,4.00 KiB
+per-line,thrash_tag,1,4.00 KiB
+per-set,duel_counter,4,1.00 KiB
+global,SHCT,4096,0.50 KiB
+TOTAL,,471040,57.50 KiB
