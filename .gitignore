@@ -20,3 +20,4 @@ ChampSim_CRC2/*-config3
 *.o
 *.a
 *.zip
+ChampSim_CRC2/new_policies/*.out
