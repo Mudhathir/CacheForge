@@ -1,7 +1,7 @@
 # CacheForge — Homework 1 (Fall 2025)
 LLM-guided discovery of **LLC cache replacement policies** on **ChampSim CRC2**. The workflow generates C++ policies with an LLM, compiles them, runs traces in a Dockerized toolchain, and records results in a **single** SQLite database (`funsearch.db`). Utilities then export CSVs/plots for the report.
 
-- **Author:** Fahim Sharif (`msharif3`)
+- **Author:** Mudhayhir Sharif Khaja(`msharif3`)
 - **Repo:** https://github.com/Mudhathir/CacheForge
 - **One DB only:** `funsearch.db` (no multiple databases)
 
